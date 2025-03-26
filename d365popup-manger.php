@@ -6,7 +6,7 @@ namespace RYSE\GitHubUpdaterDemo;
  *  * Plugin URI: https://github.com/Ujjawal-bh/plugin-updater
  * Description: Manage popups with time-based visibility, enable/disable functionality, multilingual content, and REST API for mobile app integration.
  * Author: D365
- * Version: 1.0
+ * Version: 1.0.1
  * Text Domain: d365popup-manager
  * Tested up to:       6.6.1
  * Requires at least:  6.5
