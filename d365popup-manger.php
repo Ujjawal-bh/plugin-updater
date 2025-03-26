@@ -1,11 +1,16 @@
 <?php
+
+namespace RYSE\GitHubUpdaterDemo;
 /**
  * Plugin Name: D365 Popup Manager
+ *  * Plugin URI: https://github.com/Ujjawal-bh/plugin-updater
  * Description: Manage popups with time-based visibility, enable/disable functionality, multilingual content, and REST API for mobile app integration.
  * Author: D365
  * Version: 1.0
  * Text Domain: d365popup-manager
- *  Requires PHP:       8.0
+ * Tested up to:       6.6.1
+ * Requires at least:  6.5
+ * Requires PHP:       8.0
  * Update URI: https://github.com/Ujjawal-bh/plugin-updater
  */
 
